@@ -12,13 +12,14 @@ de las monedas identificadas, indicando el total de dinero identificado.
 
 ___ Contenido de archivos ___
 
-** Archivo: "Droidcam_para_Pc.zip" el cual contine el software, que permite
-la conexión de la cámara con un dispositivo Android, cabe mencionar que en el dispositivo 
-debe contar la instalación del apk "DroidCam".
+** Archivo: "Droidcam_para_Pc.zip" **
+Contine el software, que permite la conexión de la cámara con un dispositivo Android, 
+cabe mencionar que en el dispositivo debe contar la instalación del apk "DroidCam".
 
-** Archivo: "CalculoAreaTrabajo_y_AreaDeMonedas.xlsx" es encotrada la información que 
-complementa a dicho proyecto, los valores dentro de este archivo pueden ser modificados
-para determinar una nueva dimesión de un área de trabajo a considerar, como también
+** Archivo: "CalculoAreaTrabajo_y_AreaDeMonedas.xlsx" ** 
+Dentro de este, es encotrada la información que complementa a dicho proyecto, 
+los valores dentro de este archivo pueden ser modificados para determinar una
+nueva dimesión de un área de trabajo a considerar, como también
 la posible nueva determinación de áreas para nuevas monedas.
 
 
