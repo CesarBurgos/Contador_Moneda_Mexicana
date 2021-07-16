@@ -24,4 +24,5 @@ la posible nueva determinación de áreas para nuevas monedas.
 
 
 Además es importante considerar la distancia entre la cámara y el área de las monedas,
-sea entre los 18 y 20 cm
+sea entre los 18 y 20 cm, para complementar lo anteriormente dicho, consultar imagen 
+"Consideración.jpg"
